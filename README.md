@@ -3,3 +3,6 @@ THis is a rails app for receiving phone calls with a computerized operator. It u
 Run the rails server, then:
 
 `POST http://localhost:3000/twilio/voice`
+
+
+You need to set an environment variable first ... will update this with the name
